@@ -79,4 +79,4 @@ El objetivo principal es *presentar de manera clara y accesible esta problemáti
 
 
 ## 🔗 Enlace al Repositorio  
-👉 [GitHub – Plastic and Fashion](#)
+👉 [GitHub – Plastic and Fashion](https://github.com/SrTcot/Plastic-and-fashion-project/)
